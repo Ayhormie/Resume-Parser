@@ -1,0 +1,16 @@
+college_name,company_names,degree,designation,email,mobile_number,name,no_of_pages,skills,location,total_experience,best_role,,,
+College of Charleston,"Boeing, Ford",Bachelors COMPUTER SCIENCE,front-end developer,smitht23@gmail.com,5555555555,Tim Smith,1,"html, css, react, bootstrap, flexbox",Charleston,1,front-end developer,,,0
+University of Chicago,"Apple, Microsoft",Masters Statistics,data scientist,joeshmoe@yahoo.com,4444444444,Joe Shmoe,1,"cleaning data, statatistical analysis, data analysis, calculus, python, sql","Sydney, Australia",3,data scientist,,,1
+MIT,,Bachelors COMPUTER SCIENCE,"data analyst, ML Engineer intern",,,,,"cleaning data, sql, power bi, aws, analysis",,,data scientist,,,2
+Duke University,,Masters Computer Science,data scientist,,,,,"sql, python, machine learning, tableau, ",,,data scientist,,,3
+Dominican University,"Reesby, Indeed",Masters Psychology,Human Resources Manager,georginamartin@gmail.com,3460097789,Georgina Martin,2,"Recruiting, Interviewing, management, microsoft office suite","Melbourne, AU",2,Human Resources,,,4
+University of Illinois,"Meta, MongoDB",Bachelors Computer Science,backend developer,,3908859967,Helga Jones,1,"github, node.js, python, django","San Diego, California",1,back-end developer,,,5
+University of Illinois,MongoDB,Bachelors in Computer Science,backend,,3908859967,Mike Thomson,1,"github, node.js, python, django, css","San Diego, California",1,back-end developer,,,6
+University of Delaware,Glassdoor,,Human Resources,wendell@gmail.com,3460097789,Clyde Willingsworth,1,"Employee relations, management, administrative, ","Sydney, AU",1,Human Resources,,,7
+Brown University,Snapchat,Bachelors in Computer Science,backend developer,,3460097789,Joey Gold,1,"github, node.js, python, django, serverless computing, aws, javscript","Bend, OR",1.83,back-end developer,,,8
+Cornell University,Zillow,Associates in Computer Science,backend developer,,3460097789,Henry Fickle,1,"git, node.js, php, sql, javascript","Seattle, WA",1,back-end developer,,,9
+University of Montana,,Bachelors Arts,front-end developer,,3460097789,Leo Stansworth,1,"html, css, javascript, seo, json, react",North Dakota,3,front-end developer,,,10
+University of Hawaii,Healing Inc,Bachelors History,HR,,3460097789,Debra Shoemaker,1,"Employee relations, management, administrative, ","Severvile, TN",2,Human Resources,,,11
+University of Texas,Soez Marketing,,human resources,,3460097789,Sandra Lee,1,"microsoft office, hiring, recruiting, presentations","El Paso, TX",1,Human Resources,,,12
+College of Amsterdam,Marcteam,Masters Business Administration,HR,,3460097789,Eric Wen,1,"Employee relations, management, administrative, presentations","Amsterdam, Netherlands",1,Human Resources,,,13
+University of Sydney,,,Human Resources Manager,wendell@gmail.com,3460097789,Wendell Fox,1,"Employee relations, management, administrative, ","Sydney, AU",1,Human Resources,,,14
